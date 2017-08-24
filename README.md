@@ -1,21 +1,8 @@
-# dfhon-vue
-
-> dfhon-h5-project
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+src：项目文件
+    api:所有接口请求封装
+    assets:公用的静态图片
+    baseComponents:基础组件和功能组件
+    common:相关公用js
+    commonents:页面组件
+    router:路由
+    store:vuex状态控制
