@@ -1,4 +1,4 @@
-src：项目文件
+src项目文件下 ----->
     api:所有接口请求封装
     assets:公用的静态图片
     baseComponents:基础组件和功能组件
